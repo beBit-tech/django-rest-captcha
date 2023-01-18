@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-rest-captcha"
+name = "rest-captcha"
 version = "0.2.0"
 description = "Lightweight version of django-simple-captcha for work with django-rest-framework"
 readme = "README.md"
