@@ -7,6 +7,7 @@ authors = ["evgeny.zuev <zueves@gmail.com>"]
 license = "MIT"
 packages = [
     {include = "rest_captcha"},
+    {include = "rest_captcha/fonts"},
 ]
 
 [tool.poetry.dependencies]
