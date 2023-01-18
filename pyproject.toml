@@ -9,7 +9,7 @@ packages = [
     {include = "rest_captcha"},
 ]
 include=[
-    {path = "rest_captcha/fonts"},
+    {path = "rest_captcha/fonts/Vera.ttf"},
 ]
 
 
