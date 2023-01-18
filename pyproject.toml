@@ -8,10 +8,6 @@ license = "MIT"
 packages = [
     {include = "rest_captcha"},
 ]
-include=[
-    {path = "rest_captcha/fonts/Vera.ttf"},
-]
-
 
 [tool.poetry.dependencies]
 python = "*"
